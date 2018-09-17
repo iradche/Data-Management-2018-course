@@ -11,7 +11,26 @@ Skype: iradche
 ## Цели занятия
 ### Знакомство     
 Предварительный опрос: https://goo.gl/forms/V0kjlOFCiVxMRkAA3      
-Опорная гуглотаблица: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=0        
+Опорная гуглотаблица: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=0   
+
+## Тематика для наборов данных
+Необходимо определиться с темой поиска данных.
+Тему можно взять по своему усмотрению, либо выбрать из следующих:
+1. Экологическая обстановка
+2. Демография
+3. Образование
+4. Транспорт
+5. Спорт
+6. Трудовая занятость
+7. Гендерная тема
+8. Бюджет
+9. Культура
+Или предложите свою тему.
+И внести тему в нашу гугл-таблицу: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834       
+
+
+## Темы для докладов/семинаров
+
 
 
 ## Поиск данных
