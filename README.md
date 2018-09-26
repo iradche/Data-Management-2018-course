@@ -1,4 +1,5 @@
-# Data-Management-course
+# Курс "Управление данными"
+### Описание курса
 
 Курс "Управление данными" для магистерской программы "[Журналистика данных](https://www.hse.ru/ma/datajourn/)"
 
@@ -14,7 +15,7 @@
 7. Цитирование данных
 8. Архивирование данных
 
-Оценка за курc:       
+### Оценка за курc       
 [Задание 1 (Поиск открытых данных по заданной теме)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task1.md) = 2 балла     
 [Задание 2 (Публикация открытых данных на платформе CKAN)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task2.md) = 2 балла     
 [Задание 3 (Эссе на основе открытых данных)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task3.md) = 4 балла    
