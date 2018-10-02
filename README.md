@@ -8,13 +8,12 @@
 
 1. [Введение](https://github.com/iradche/Data-Management-course/blob/master/intro.md).
 2. [Поиск и сбор данных](https://github.com/iradche/Data-Management-course/blob/master/lessons1-2.MD).     
-3. [Открытые данные: машиночитаемость и открытость](https://github.com/iradche/Data-Management-course/blob/master/lesson6.md).
-4. [Подготовка данных](https://github.com/iradche/Data-Management-course/blob/master/lesson5.MD).
-5. Анализ данных.
-6. Хранение данных.
-7. Распространение данных.
-8. Цитирование данных.
-9. Архивирование данных. 
+3. [Открытые данные: машиночитаемость и открытость](https://github.com/iradche/Data-Management-course/blob/master/lesson3.md).
+4. [Хранение данных](https://github.com/iradche/Data-Management-course/blob/master/lesson4.md).
+5. [Подготовка данных](https://github.com/iradche/Data-Management-course/blob/master/lesson5.MD).
+6. Анализ данных.
+7. Распространение и цитирование данных.
+8. Архивирование данных. 
 
 ### Оценка за курc       
 [Задание 1 (Поиск открытых данных по заданной теме)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task1.md) = 2 балла     
