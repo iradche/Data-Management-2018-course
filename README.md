@@ -13,7 +13,6 @@
 5. [Подготовка данных](https://github.com/iradche/Data-Management-course/blob/master/lesson5.MD).
 6. Анализ данных.
 7. Распространение и цитирование данных.
-8. Архивирование данных. 
 
 
 ### Опросы 
