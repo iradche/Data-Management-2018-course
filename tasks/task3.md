@@ -38,4 +38,8 @@
 
 ### 7. Peer Review
 Взаимная ревизия по принципу "ты -- мне, я -- тебе".     
+
+
+## Критерии оценивания дата-эссе
+Критерии оценивания дата-эссе [можно посмотреть здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vTLcZV4N8MRtQDf4gwNRFMwgGvHZTIO5UgXg6X_nNAT4qZcFTE0akKKcnY_Dqoxp5p1fFk3_GV3lE8t/pubhtml?gid=1709635806&single=true)
      
