@@ -27,3 +27,5 @@
 [Задание * (Публикация и присвоение идентификатора DOI на платформе Zenodo)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task4.md) = 1 балл     
 [Задание ** (Доклад с поиском материалов по заданной теме)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task5.md) = 1 балл     
 
+Критерии оценивания заданий [можно посмотреть здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vTLcZV4N8MRtQDf4gwNRFMwgGvHZTIO5UgXg6X_nNAT4qZcFTE0akKKcnY_Dqoxp5p1fFk3_GV3lE8t/pubhtml?gid=1709635806&single=true).
+
