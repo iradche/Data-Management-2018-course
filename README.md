@@ -18,6 +18,7 @@
 ### Опросы 
 - [Предварительный опросник](https://goo.gl/forms/V0kjlOFCiVxMRkAA3).         
 - [Промежуточный опросник](https://goo.gl/forms/O6SyEgJPE0baMhiq1).
+- [Пост-опросник](https://goo.gl/forms/dzSlWH0GEJpRQ4L92).
 
 ### Оценка за курc       
 [Задание 1 (Поиск открытых данных по заданной теме)](https://github.com/iradche/Data-Management-course/blob/master/tasks/task1.md) = 2 балла     
