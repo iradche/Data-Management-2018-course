@@ -6,7 +6,7 @@
 Модель открытости данных.    
 Открытые лицензии.   
 Что не является открытыми данными?  
-[Презентация](https://github.com/iradche/Data-Management-course/blob/master/lectures/DataManagement02.pdf).
+[Презентация](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/lectures/DataManagement02.pdf).
 
 ### Небольшой мастер-класс по Markdown
 
