@@ -1,5 +1,5 @@
-[Презентация к лекции](https://github.com/iradche/Data-Management-course/blob/master/lectures/DataManagement03.pdf).     
-[Промежуточный опросник](https://goo.gl/forms/O6SyEgJPE0baMhiq1).
+[Презентация к лекции](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/lectures/DataManagement03.pdf).    
+[Промежуточный опросник](https://goo.gl/forms/O6SyEgJPE0baMhiq1).      
 
 ## Хранение данных
 Типы хранилищ данных.
